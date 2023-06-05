@@ -5,6 +5,7 @@ This project requires MySQL for data analysis and Power BI for data visualizatio
 
 About the dataset:
 Dataset on Sale of Beverages in United States 
+
 Source: Kaggle
 
 Data analysis in MySQL:
